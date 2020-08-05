@@ -21,6 +21,7 @@ To run it locally -
 
 
 email : rezkymaulana@gmail.com
+
 password : rezky12345
 
 ### Screenshots :
