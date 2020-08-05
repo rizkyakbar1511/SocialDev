@@ -2,10 +2,14 @@
 
 Socialdev is an photo sharing & social networking for developers
 
+#### Front-End - React.js + React Context
+#### Back-End - Node.js, Express.js, MongoDB
+
 ![Heroku](http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html)
 
 Live Demo : [Here](https://socialdev15.herokuapp.com)
 
+To run it locally -
 
 1. Make a folder & clone this repo
 2. Open 2 terminal cd <Your_Folder> && other terminal cd client
@@ -13,6 +17,9 @@ Live Demo : [Here](https://socialdev15.herokuapp.com)
 4. npm start on both terminal
 5. Enjoy :)
 
+*please use this login :
+email : rezkymaulana@gmail.com
+password : rezky12345
 
 ### Screenshots :
 
