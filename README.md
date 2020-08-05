@@ -7,6 +7,13 @@ Socialdev is an photo sharing & social networking for developers
 Live Demo : [Here](https://socialdev15.herokuapp.com)
 
 
+1. Make a folder & clone this repo
+2. Open 2 terminal cd <Your_Folder> && other terminal cd client
+3. npm install on both terminal
+4. npm start on both terminal
+5. Enjoy :)
+
+
 ### Screenshots :
 
 
