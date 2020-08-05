@@ -17,7 +17,9 @@ To run it locally -
 4. npm start on both terminal
 5. Enjoy :)
 
-*please use this login :
+*please use this login
+
+
 email : rezkymaulana@gmail.com
 password : rezky12345
 
